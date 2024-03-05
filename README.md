@@ -12,6 +12,7 @@ Responsive design for mobile and desktop views
 
 Installation
 git clone https://github.com/MarkoSantos-Dev/BaytechExam.git
+You can skip the clone part if you received the file in zip
 cd BayTechExam
 npm install
 npm run dev 

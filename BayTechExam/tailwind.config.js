@@ -9,6 +9,8 @@ export default {
       colors:{
         "mainBackgroundColor": '#B2BD8C',
         "columnBackgroundColor": ' #434733',
+        "offsets": '#DAE7AB',
+        "amberDark": '#FEB204'
       }
     },
   },

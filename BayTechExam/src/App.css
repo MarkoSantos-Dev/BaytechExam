@@ -7,3 +7,19 @@ body,
 #root {
   @apply bg-gray-100 text-white box-border;
 }
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar:horizontal {
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-amber-800 rounded-xl;
+}
+
+.task > ::-webkit-scrollbar-thumb {
+  @apply bg-amber-800  rounded-xl;
+}

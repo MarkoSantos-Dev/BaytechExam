@@ -11,6 +11,7 @@ Drag and drop tasks between columns
 Responsive design for mobile and desktop views
 
 Installation
-    cd BayTechExam
-    npm install
-    npm run dev 
+git clone https://github.com/MarkoSantos-Dev/BaytechExam.git
+cd BayTechExam
+npm install
+npm run dev 
